@@ -1,1 +1,1 @@
-# Table schemas for your DB
+# Table schemas
